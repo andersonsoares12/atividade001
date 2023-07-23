@@ -67,12 +67,12 @@ const styles = StyleSheet.create({
     alignItems: "center",
     padding: 20,
     backgroundColor: "#fff",
-    marginTop:20,
+    marginTop: 20,
   },
   title2: {
     fontSize: 24,
     fontWeight: "bold",
-    marginTop:10,
+    marginTop: 10,
     marginBottom: 80,
     color: "green",
   },
@@ -82,6 +82,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     marginBottom: 20,
   },
+
   input: {
     width: "100%",
     height: 40,
@@ -90,6 +91,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     marginBottom: 15,
     paddingHorizontal: 10,
+    color: "green",
   },
   button: {
     backgroundColor: "blue",
